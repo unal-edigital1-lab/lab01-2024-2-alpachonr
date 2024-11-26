@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc/simulation/modelsim
+vsum1bcc
+!s110 1732646716
+!i10b 1
+!s100 kbd>86O=0<2:dcRSLWeg_0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9P=C>Q^`R]mc_[:<[J<8H0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1732047416
+8/home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc.v
+F/home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc.v
+!i122 0
+L0 1 17
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1732646716.000000
+!s107 /home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/alejandro/ADigital/lab01-2024-2-alpachonr/src|/home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+/home/alejandro/ADigital/lab01-2024-2-alpachonr/src
+Z6 tCvgOpt 0
+vsum1bcc_TB
+!s110 1732646717
+!i10b 1
+!s100 b7IHZRXeO9ieik8P0[2SW1
+R1
+IB5dd5e8WO2:GW>[BNA?O@1
+R2
+R0
+R3
+8/home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc/../sum1bcc_TB.v
+F/home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc/../sum1bcc_TB.v
+!i122 1
+L0 1 33
+R4
+r1
+!s85 0
+31
+!s108 1732646717.000000
+!s107 /home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc/../sum1bcc_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc/..|/home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc/../sum1bcc_TB.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+/home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc/..
+R6
+nsum1bcc_@t@b

@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, /home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc_TB.v
+source_file = 1, /home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc.v
+source_file = 1, /home/alejandro/ADigital/lab01-2024-2-alpachonr/src/sum1bcc/db/sum1bcc.cbx.xml
+design_name = sum1bcc
+instance = comp, \Cout~output , Cout~output, sum1bcc, 1
+instance = comp, \S~output , S~output, sum1bcc, 1
+instance = comp, \A~input , A~input, sum1bcc, 1
+instance = comp, \Ci~input , Ci~input, sum1bcc, 1
+instance = comp, \B~input , B~input, sum1bcc, 1
+instance = comp, \Add1~0 , Add1~0, sum1bcc, 1
+instance = comp, \Add1~1 , Add1~1, sum1bcc, 1
+design_name = hard_block
+instance = comp, \~ALTERA_ASDO_DATA1~~ibuf , ~ALTERA_ASDO_DATA1~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_FLASH_nCE_nCSO~~ibuf , ~ALTERA_FLASH_nCE_nCSO~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_DATA0~~ibuf , ~ALTERA_DATA0~~ibuf, hard_block, 1
