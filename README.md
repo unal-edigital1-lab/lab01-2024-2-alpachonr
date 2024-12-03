@@ -77,3 +77,4 @@ Acá está la simulación de **sum1bcc_primitive**
 ![](img/SimPrimitive.png)
 Acá está la simulación de **sum1bcc**
 ![](img/SimSum1bcc.png)
+En las simulaciones se ve que ambos reaccionan de igual manera a los estímulos, funcionan igual en esencia.
